@@ -1,0 +1,15 @@
+-Siti realizzati esclusivamente con wordpress + DIVI (tema) o con html/css/javascript (sito statico) - NO JOOMLA, NO DRUPAL, ecc...
+-No E-Commerce
+-Prezzi (I prezzi possono variare anche in base al numero di funzionalità/moduli richiesti):
+    1-2 pagine-->85 euro / 100 euro 3 revisioni gratuite
+    3-6 pagine ---> 130 / 150 euro 6 revisioni gratuite
+    7-12 pagine ---> 230 / 250 euro 10 revisioni gratuite
+
+    Revisioni aggiuntive: 20 euro
+    Per revisioni si intendono piccoli adattamenti e modifiche marginali al sito (es: cambio font del testo, aggiunta foto, eliminazione/spostamento testi, cambio dimensioni header ecc...)
+    richieste dal cliente DOPO la consegna del sito.
+    La correzione di eventuali errori, refusi o bug non causati dal cliente viene effettuata gratuitamente.
+
+Acquisto Hosting e Dominio interamente a carico del cliente. Su richiesta consigli e guida alla scelta dell'hosting + installazione wordpress (gratuito).
+
+Per 30 euro aggiuntivi tutorial/mini corso introduttivo su divi e wordpress (per gestire il proprio sito in autonomia).
